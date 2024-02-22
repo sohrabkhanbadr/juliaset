@@ -22,7 +22,8 @@ z_{n+1} = z_n^2 + c
 
 مجموعه‌های ژولیا می‌توانند اشکال بسیار پیچیده و زیبایی داشته باشند. در اینجا چند نمونه از تصاویر مجموعه‌های ژولیا را مشاهده می‌کنید:
 
-![Julia set](https://upload.wikimedia.org/wikipedia/commons/4/4a/Julia_-0.835_-0.2321.png)
+<!-- ![Julia set](https://upload.wikimedia.org/wikipedia/commons/4/4a/Julia_-0.835_-0.2321.png) -->
+![Julia set](https://github.com/sohrabkhanbadr/juliaset/blob/main/Figure_1.png)
 
 # کاربردها:
 
